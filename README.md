@@ -27,3 +27,5 @@ User → Azure Bot → Language Service → Knowledge Base → Response
 <img width="601" height="580" alt="image" src="https://github.com/user-attachments/assets/cafe636e-cbbf-4f2e-8b27-bf0dbf9d6693" />
 
 # FAQ DOC
+https://raw.githubusercontent.com/MicrosoftLearning/AI-900-AIFundamentals/main/data/qna/margies_faq.docx
+
